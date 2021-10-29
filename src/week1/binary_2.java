@@ -15,8 +15,8 @@ public class binary_2 {
         while (low < high) {
             int mid = low + (high - low) / 2;
             int flower = 0, bouq = 0;
-            for (int i = 0; i < bloomDay.length; i++) {
-                if (bloomDay[i] <= mid) {
+            for (int day : bloomDay) {
+                if (day <= mid) {
                     flower++;
                     if (flower == k) {
                         bouq++;

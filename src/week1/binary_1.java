@@ -16,6 +16,7 @@ public class binary_1 {
         }
         //cnt = arr[left] - (left + 1);
         // arr[left] + (k- cnt) = k + left + 1
+        // k + (left-1) + 1
         return left + k;
     }
 

@@ -7,6 +7,7 @@
 
 ### [진행 방식] 
 이론 - Do it! 자료구조와 함께 배우는 알고리즘 입문 자바 편
+코테 가이드 - https://github.com/tony9402/baekjoon
 1. every Monday (on/offline) 
 2. 6 question solving
 3. review
